@@ -21,8 +21,4 @@
 		<ProjectReference Include="..\DataAccess\DataAccess.csproj" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <None Include="C:\Users\Vadim\Desktop\BackendApi_TEST\src\BackendApi\.editorconfig" />
-	</ItemGroup>
-
 </Project>
